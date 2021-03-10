@@ -1,8 +1,8 @@
 # anuwat.1
-My name is Anuwat Wathayotha.
-My nick name is Benz.
-I'm 22 years old.
-I'm studying at Mahasarakham University in major Business Computer.
+- My name is Anuwat Wathayotha.
+- My nick name is Benz.
+- I'm 22 years old.
+- I'm studying at Mahasarakham University in major Business Computer.
 ## Contact
 - E-mail:61010912554@msu.ac.th
 - Facebook:Benz'z Anuwat
